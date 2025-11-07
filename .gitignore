@@ -1,0 +1,10 @@
+# Сборки CMake
+/build/
+
+# Локальные файлы VS Code
+.vscode/
+*.code-workspace
+
+# WSL или системные файлы
+*.swp
+*.DS_Store
