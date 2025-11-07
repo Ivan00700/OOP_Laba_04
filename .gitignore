@@ -1,6 +1,3 @@
-# Сборки CMake
-/build/
-
 # Локальные файлы VS Code
 .vscode/
 *.code-workspace
